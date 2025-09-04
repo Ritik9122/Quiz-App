@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answerIndex": 2
+  },
+  {
+    "id": 1,
+    "question": "Which language runs in a web browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "answerIndex": 3
+  },
+  {
+    "id": 2,
+    "question": "What does CSS stand for?",
+    "options": ["Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Syntax", "Computer Style Sheets"],
+    "answerIndex": 1
+  }
+]
